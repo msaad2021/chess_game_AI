@@ -1,0 +1,8 @@
+SIMPLE CHESS GAME IN PYTHON
+
+
+Developed By: syed zohaib ali (cs-201146) , saad hai (cs-201092) , Ahmed Irshad (cs-201165)
+
+
+
+#THANK YOU FOR DOWNLOADING
